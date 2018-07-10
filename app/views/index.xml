@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<TextField id='campoTexto' top='50' height="50" width='200' borderColor="red"> </TextField>	
+		<Button id='newWind' class='button'> new Window </Button>
+		<Button id='arguments' class='button'> args </Button>
+		<Button id='fireEvent' class='button'> fireEvent </Button>
+		<Button id='properties' class='button'> properties </Button>
+	</Window>
+</Alloy>
